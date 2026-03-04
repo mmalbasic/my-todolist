@@ -5,6 +5,5 @@
     "build": "echo 'No build step necessary'"
   },
   "dependencies": {
-    // Deine Abhängigkeiten hier
   }
 }
